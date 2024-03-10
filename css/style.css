@@ -391,7 +391,7 @@ footer p{
     }
 }
 /* iPad LANDSCAPE */
-@media only screen and (min-width: 1024px){
+/* @media only screen and (min-width: 1024px){
     .title{
         font-size: 90px;
     }
@@ -518,4 +518,4 @@ footer p{
         margin-bottom: 10px;
         font-size: 30px;
     }
-}
+} */
